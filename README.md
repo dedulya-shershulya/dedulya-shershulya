@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" title=".NET#" alt=".NET" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" title=".NET" alt=".NET" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
