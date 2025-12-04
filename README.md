@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @dedulya-shershulya
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm George</h1>
+<h3 align="center">Beginner C# Developer from Russia</h3>
 
 <!---
 dedulya-shershulya/dedulya-shershulya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
