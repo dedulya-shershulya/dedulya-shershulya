@@ -31,7 +31,9 @@
 
 ### **ITMO University**
 **Major:** Information Systems and Technologies / Software Engineering
+
 **Study Period:** 2023 — 2027  
+
 **Status:** 3-year studentу
 
 ### **Completed Courses**
