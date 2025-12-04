@@ -34,7 +34,7 @@
 
 **Study Period:** 2023 — 2027  
 
-**Status:** 3-year studentу
+**Status:** 3-year student
 
 ### **Completed Courses**
 
